@@ -193,3 +193,8 @@ i.bank.bank-pp{
     background-color: #00427a;
     background-image: url('svg/pp.svg');
 }
+i.bank.bank-pp2{
+    background-color: #00427a;
+    background-image: url('svg/prompt-pay-logo.svg');
+}
+
