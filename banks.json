@@ -34,5 +34,6 @@
     "tmn":   { "code": "074", "color": "#ecf0f1", "official_name": "TRUE MONEY WALLET", "nice_name": "TrueMoney Wallet" },
     "pp":    { "code": "075", "color": "#00427a", "official_name": "PROMPTPAY", "nice_name": "PromptPay" },
     "ttb":   { "code": "076", "color": "#ecf0f1", "official_name": "TMBTHANACHART BANK PUBLIC COMPANY LIMITED", "nice_name": "TMBThanachart Bankk" }
+    "pp2":   { "code": "077", "color": "#00427a", "official_name": "PROMPTPAY2", "nice_name": "PromptPay2" },
   }
 }
