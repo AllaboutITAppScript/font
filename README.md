@@ -43,6 +43,7 @@ Usage:
 - **bank-lhb** - Land and Houses Bank
 - **bank-tmn** - TrueMoney Wallet
 - **bank-pp** - PromptPay
+- **bank-pp2** - PromptPay2
 
 ### Example
 Basic Use:
