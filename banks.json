@@ -35,5 +35,6 @@
     "pp":    { "code": "075", "color": "#00427a", "official_name": "PROMPTPAY", "nice_name": "PromptPay" },
     "ttb":   { "code": "076", "color": "#ecf0f1", "official_name": "TMBTHANACHART BANK PUBLIC COMPANY LIMITED", "nice_name": "TMBThanachart Bankk" }
     "pp2":   { "code": "077", "color": "#00427a", "official_name": "PROMPTPAY2", "nice_name": "PromptPay2" },
+    "pp3":   { "code": "077", "color": "#00427a", "official_name": "PROMPTPAY3", "nice_name": "PromptPay3" },
   }
 }
